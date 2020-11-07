@@ -1,16 +1,21 @@
-### Hi there 👋
+## Lameck Silva
 
-<!--
-**lamecksilva/lamecksilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my Github profile :)
 
-Here are some ideas to get you started:
+#### About me
+I'm just curious in this programming world, even though I work as a software engineer on a daily basis. 🤙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>I prefer and use technologies with javascript, Node.js, React.js and the like ... However, don't compare me to students of '🚀🪑' courses out there.
+
+#### Interests
+
+- 🏗 Web Technologies / Development ️
+- 🔧 Create new 'Things'
+- 💰 Investments / Financial market
+- 💪 Workout and Bodybuilding (Mainly)
+
+#### Contact
+
+- 📭 E-mail: **lameck2@hotmail.com**
+- 📲 Discord: **lameco#4960**
+- 📷 Instagram: **lameck_santos** (🔒)
