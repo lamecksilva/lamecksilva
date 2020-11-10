@@ -7,8 +7,6 @@ I'm just curious in this programming world, even though I work as a software eng
 
 >I prefer and use technologies with javascript, Node.js, React.js and the like ... However, don't compare me to students of '🚀🪑' courses out there.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamecksilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Interests
 
 - 🏗 Web Technologies / Development ️
