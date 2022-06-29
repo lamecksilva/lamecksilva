@@ -5,11 +5,12 @@
 #### About me
 I'm just curious in this programming world, even though I work as a software engineer on a daily basis. 🤙
 
->I prefer and use technologies with javascript, Node.js, React.js and the like ...
+>To jobs i prefer and use technologies with TypeScript, Node.js, React.js and the like (My main stack) ...
+>I love live in terminals,  bash scripting, low-level languages like C and others ...  
 
 #### Interests
 
-- 🏗 Web & Mobile Technologies / Development ️
+- 🏗 Web & DevOps Technologies / Development ️
 - 🔧 Create new 'Things'
 - 💪 Workout and Bodybuilding (Mainly)
 
