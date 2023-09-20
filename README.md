@@ -1,4 +1,4 @@
-## Lameck Silva
+## Lameck
 
 👋 Welcome to my Github profile :)
 
@@ -12,10 +12,9 @@ I'm just curious in this programming world, even though I work as a software dev
 
 - 🏗 Web & DevOps Technologies / Development ️
 - 🔧 Create new 'Things'
-- 💪 Bodybuilding (Mainly)
+- 💪 Bodybuilding
 
 #### Contact
 
-- 📭 E-mail: **lameck2@hotmail.com**
+- 📭 E-mail: **lameckanao@gmail.com**
 - 📲 Discord: **lameck_212**
-- 📷 Instagram: **lmk.dev.bbd** (🔒)
