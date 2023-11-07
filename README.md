@@ -17,4 +17,4 @@ I'm just curious in this programming world, even though I work as a software dev
 
 #### Contact
 
-- 📲 Discord: **lameck_212**
+- 📲 Linkedin: **[Lameck Santos](https://www.linkedin.com/in/lameck-santos/)**
