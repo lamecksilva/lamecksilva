@@ -6,7 +6,7 @@ I like workout and use neovim.
 #### Interests
 
 - 🔧 NeoVim
-- 💪 Lift
+- 🪟 Tmux
 
 #### Contact
 
